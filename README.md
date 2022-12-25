@@ -1,1 +1,1 @@
-# 
+# Terminal: npm start
